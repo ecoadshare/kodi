@@ -1,0 +1,204 @@
+#EXTINF:-1 tvg-id="channel_i" tvg-logo="ChannelI.png" group-title="Bangla",Channel I
+http://tv.ebox.live/live/chi.m3u8
+#EXTINF:-1 tvg-id="bangla_vision" tvg-logo="BanglaVision.png" group-title="Bangla",Bangla Vision
+http://tv.ebox.live/live/banae1.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-logo="NTV.png" group-title="Bangla",NTV
+http://12.1.1.3:8081/token/bd-ntv/chunks.m3u8?nimblesessionid=5318883&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDE4IDEyOjQ5OjA4IEFNJmhhc2hfdmFsdWU9MDRWR1hrZTV2dngzVE1MdG1NWlhvUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1 tvg-id="rtv" tvg-logo="RTV.png" group-title="Bangla",RTV
+http://tv.ebox.live/live/rtv.m3u8
+#EXTINF:-1 tvg-id="atn_bangla" tvg-logo="ATNBangla.png" group-title="Bangla",ATN Bangla
+http://tv.ebox.live/live/atnbd1.m3u8
+#EXTINF:-1 tvg-id="maasranga_tv" tvg-logo="MaasrangaTV.png" group-title="Bangla",Maasranga TV
+http://tv.ebox.live/live/natgeowild.m3u8
+#EXTINF:-1 tvg-id="gtv" tvg-logo="GTV.png" group-title="Bangla",GTV
+http://tv.ebox.live/live/gazibd.m3u8
+#EXTINF:-1 tvg-id="jamuna_tv" tvg-logo="JamunaTV.png" group-title="Bangla",Jamuna TV
+http://tv.ebox.live/live/jamuna.m3u8
+#EXTINF:-1 tvg-id="channel_9" tvg-logo="Channel9.png" group-title="Bangla",Channel 9
+http://tv.ebox.live/live/channel9bd.m3u8
+#EXTINF:-1 tvg-id="satv" tvg-logo="SATV.png" group-title="Bangla",SATV
+http://tv.ebox.live/live/satvbd.m3u8
+#EXTINF:-1 tvg-id="etv" tvg-logo="ETV.png" group-title="Bangla",ETV
+
+#EXTINF:-1 tvg-id="deepto_tv" tvg-logo="DeeptoTV.png" group-title="Bangla",Deepto TV
+http://tv.ebox.live/live/deepto.m3u8
+#EXTINF:-1 tvg-id="boishakhi_tv" tvg-logo="BoishakhiTV.png" group-title="Bangla",Boishakhi TV
+http://tv.ebox.live/live/boishakhi.m3u8
+#EXTINF:-1 tvg-id="asian_tv" tvg-logo="AsianTV.png" group-title="Bangla",Asian TV
+http://tv.ebox.live/live/asian.m3u8
+#EXTINF:-1 tvg-id="news24" tvg-logo="news24.png" group-title="Bangla",News 24
+http://tv.ebox.live/live/news24.m3u8
+#EXTINF:-1 tvg-id="independent_tv" tvg-logo="IndependentTV.png" group-title="Bangla",Independent TV
+http://tv.ebox.live/live/ind2.m3u8
+#EXTINF:-1 tvg-id="dbc" tvg-logo="DBC.png" group-title="Bangla",DBC
+http://tv.ebox.live/live/exsomoytv.m3u8
+#EXTINF:-1 tvg-id="ekattor" tvg-logo="Ekattor.png" group-title="Bangla",Ekattor
+http://tv.ebox.live/live/ekattor1.m3u8
+#EXTINF:-1 tvg-id="channel_24" tvg-logo="Channel24.png" group-title="Bangla",Channel 24
+
+#EXTINF:-1 tvg-id="atn_news" tvg-logo="ATNNews.png" group-title="Bangla",ATN News
+http://tv.ebox.live/live/atnae.m3u8
+#EXTINF:-1 tvg-id="mohona_tv" tvg-logo="MohonaTV.png" group-title="Bangla",Mohona TV
+
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="Bangla",
+
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="Bangla",
+
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="Bangla",
+
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="Bangla",
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="starjalsha" tvg-logo="StarJalsha.png" group-title="Indian Bangla",Star Jalsha
+
+#EXTINF:-1 tvg-id="zee_bangla" tvg-logo="ZeeBangla.png" group-title="Indian Bangla",Zee Bangla
+
+#EXTINF:-1 tvg-id="colors_bangla" tvg-logo="ColorsBangla.png" group-title="Indian Bangla",Colors Bangla
+
+#EXTINF:-1 tvg-id="zee_bangla_cinema" tvg-logo="ZeeBanglaCinema.png" group-title="Indian Bangla", Zee Bangla Cinema
+
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="Indian Bangla",
+
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="Indian Bangla",
+
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="Indian Bangla",
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="sony_ten1" tvg-logo="SonyTen1.png" group-title="Sports",Sony Ten1
+
+#EXTINF:-1 tvg-id="sony_ten2" tvg-logo="SonyTen2.png" group-title="Sports",Sony Ten2
+http://tv.ebox.live/exid/exid-3.m3u8
+#EXTINF:-1 tvg-id="sony_ten3" tvg-logo="SonyTen3.png" group-title="Sports",Sony Ten3
+http://tv.ebox.live/exid/exid-4.m3u8
+#EXTINF:-1 tvg-id="espn" tvg-logo="ESPN.png" group-title="Sports",ESPN
+http://tv.ebox.live/live/espn.m3u8
+#EXTINF:-1 tvg-id="sony_six" tvg-logo="SonySix.png" group-title="Sports",Sony Six
+http://tv.ebox.live/live/ten2bkp.m3u8
+#EXTINF:-1 tvg-id="bein_sports2" tvg-logo="BeinSports2.png" group-title="Sports",Bein Sports 2
+
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="Sports",
+
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="Sports",
+
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="Sports",
+
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="Sports",
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="cartoon_network" tvg-logo="CartoonNetwork.png" group-title="Kids",Cartoon Network
+
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="Kids",
+
+#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="Nickelodeon.png" group-title="Kids",Nickelodeon
+
+#EXTINF:-1 tvg-id="discovery_kids" tvg-logo="DiscoveryKids.png" group-title="Kids",Discovery Kids
+
+#EXTINF:-1 tvg-id="sony_yay" tvg-logo="SonyYAY.png" group-title="Kids",Sony YAY!
+http://tv.ebox.live/live/cn1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="Kids",
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="sony_max" tvg-logo="SonyMax.png" group-title="Hindi",Sony Max
+http://tv.ebox.live/live/smax.m3u8
+#EXTINF:-1 tvg-id="sony_max2" tvg-logo="SonyMax2.png" group-title="Hindi",Sony Max 2
+
+#EXTINF:-1 tvg-id="zee_cinema" tvg-logo="ZeeCinema.png" group-title="Hindi",Zee Cinema
+
+#EXTINF:-1 tvg-id="zee_classic" tvg-logo="ZeeClassic.png" group-title="Hindi",Zee Classic
+
+#EXTINF:-1 tvg-id="colors" tvg-logo="Colors.png" group-title="Hindi",Colors
+
+#EXTINF:-1 tvg-id="zee_tv" tvg-logo="ZeeTV.png" group-title="Hindi",Zee TV
+
+#EXTINF:-1 tvg-id="star_plus" tvg-logo="StarPlus.png" group-title="Hindi",Star Plus
+
+#EXTINF:-1 tvg-id="b4u_movies" tvg-logo="B4UMovies.png" group-title="Hindi",B4U Movies
+
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="Hindi",
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="star_movies" tvg-logo="StarMovies.png" group-title="Movies",Star Movies
+
+#EXTINF:-1 tvg-id="hbo" tvg-logo="HBO.png" group-title="Movies",HBO
+
+#EXTINF:-1 tvg-id="and_pictures" tvg-logo="AndPictures.png" group-title="Movies",& Pictures
+
+#EXTINF:-1 tvg-id="axn" tvg-logo="AXN.png" group-title="Movies",AXN
+
+#EXTINF:-1 tvg-id="zeestudio" tvg-logo="ZeeStudio.png" group-title="Movies",ZeeStudio
+http://tv.ebox.live/live/zeestudio1.m3u8
+#EXTINF:-1 tvg-id="hbo" tvg-logo="HBO.png" group-title="Movies",HBO
+
+#EXTINF:-1 tvg-id="hbo" tvg-logo="HBO.png" group-title="Movies",HBO
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="discovery_bagla" tvg-logo="DiscoveryBangla.png" group-title="Educational",Discovery Bangla
+http://tv.ebox.live/live/discovery1.m3u8
+#EXTINF:-1 tvg-id="discovery" tvg-logo="Discovery.png" group-title="Educational",Discovery
+
+#EXTINF:-1 tvg-id="discovery_science" tvg-logo="DiscoveryScience.png" group-title="Educational",Discovery Science
+
+#EXTINF:-1 tvg-id="discovery_turbo" tvg-logo="DiscoveryTurbo.png" group-title="Educational",Discovery Turbo
+
+#EXTINF:-1 tvg-id="nat_geo" tvg-logo="NatGeo.png" group-title="Educational",National Geographic
+
+#EXTINF:-1 tvg-id="animal_planet" tvg-logo="AnimalPlanet.png" group-title="Educational",Animal Planet
+
+#EXTINF:-1 tvg-id="bbc_earth" tvg-logo="BBCEarth.png" group-title="Educational",BBC Earth
+
+#EXTINF:-1 tvg-id="history" tvg-logo="History.png" group-title="Educational",History
+http://tv.ebox.live/live/history1.m3u8
+#EXTINF:-1 tvg-id="travel_xp" tvg-logo="TravelXP.png" group-title="Educational",Travel XP
+
+#EXTINF:-1 tvg-id="tlc" tvg-logo="TLC.png" group-title="Educational",TLC
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="bbc_world" tvg-logo="BBCWorld.png" group-title="News",BBC World
+https://edge4.bioscopelive.com/hls/QNvWSiza4jLj4-g3lPiRsQ/1529598350/bbc_world_hi/index.m3u8
+#EXTINF:-1 tvg-id="cnn" tvg-logo="CNN.png" group-title="News",CNN
+
+#EXTINF:-1 tvg-id="al_jazeera" tvg-logo="AlJazeera.png" group-title="News",Al Jazeera
+https://edge4.bioscopelive.com/hls/w02cOoP4jMNUF1Qn1tD_Cw/1529598212/al_jazeera_hi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="News",
+
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="News",
+
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="News",
